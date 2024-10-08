@@ -111,8 +111,8 @@ img {
 }
 
 
-.apresentacao__links__link:hover {
-    background-color: var(--cor-primaria);
+.apresentacao__links__navegacao:hover {
+    background-color: var(--cor-primaria)
 }
 
 .apresentacao__imagem {
